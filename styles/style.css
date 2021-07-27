@@ -107,7 +107,7 @@ h1, h2, h3, div, img, p, section {
 
 .footer__social-icons {
   width: 16px;
-  height: 16px; 
+  height: 16px;
   background-size: contain;
   position: relative;
 }
@@ -131,7 +131,6 @@ h1, h2, h3, div, img, p, section {
   margin-top: 0;
   line-height: 30px;
   font-size: 18px;
-  font-weight: bold;
 }
 
 .footer__column-links {
