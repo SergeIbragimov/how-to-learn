@@ -180,6 +180,10 @@ a {
   overflow: hidden;
 }
 
+.header__link {
+  color: #2f80ed;
+}
+
 .header__title {
   position: relative;
   width: 730px;
@@ -250,10 +254,6 @@ a {
   height: 35px;
   left: 0;
   top: 0;
-}
-
-.link {
-  color: #2f80ed;
 }
 
 .page {
